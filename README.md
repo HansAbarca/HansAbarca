@@ -1,7 +1,5 @@
-¡Bienvenido al repositorio! 
-Este es el repositorio que usaremos para organizar nuestro trabajo. 
-Participantes: 
 Hans Abarca Ortiz
-David Garcia Tencio
-Nazih Houssain Zayzafoun
-Daniel Sanchez Acuña 
+
+Estudiante de Sistemas de Computación en la Universidad Fidelitas. 
+
+Contacto: hansgustavoabarcaor@gmail.com | https://www.linkedin.com/in/hans-abarca-ortiz-a91639202/
